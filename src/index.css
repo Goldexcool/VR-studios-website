@@ -181,6 +181,7 @@ li {
 }
 .footer_list ul{
     flex-direction: column;
+    row-gap: 1rem;
 }
 .socials{
     justify-content: center;
@@ -332,6 +333,7 @@ li {
 }
 .footer_list ul{
     flex-direction: column;
+    row-gap: 1rem;
 }
 .socials{
     justify-content: center;

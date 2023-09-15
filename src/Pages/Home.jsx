@@ -25,7 +25,7 @@ const Home = () => {
         <header id="header">
           <nav id="navbar">
             <div className="image_logo">
-              <img src={hero} alt="" />
+              <img src="/logo.svg" alt="" />
             </div>
             <div className="header_list">
               <ul>
